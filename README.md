@@ -9,3 +9,5 @@
  - all .tfvars files;
  - ignore override files;
  - CLI configuration files.
+
+Add new line.
