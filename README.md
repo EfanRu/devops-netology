@@ -11,3 +11,4 @@
  - CLI configuration files.
 
 Add new line.
+Add second line.
